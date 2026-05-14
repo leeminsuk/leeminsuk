@@ -101,11 +101,11 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🌌 3D Contributions
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/leeminsuk/leeminsuk/output/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
