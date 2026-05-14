@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leeminsuk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=leeminsuk&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeminsuk&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeminsuk&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" width="48%" />
 
 </div>
 <br/>
