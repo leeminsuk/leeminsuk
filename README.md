@@ -80,14 +80,13 @@
 <br/>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=space1637&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeminsuk&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=space1637&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leeminsuk&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -99,7 +98,7 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/space1637/space1637/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/leeminsuk/leeminsuk/output/github-contribution-grid-snake.svg)
 
 </div>
 
