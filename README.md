@@ -1,49 +1,128 @@
-
-<!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/space1637/space1637/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=leeminsuk&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descAlign=50)
+
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+
+### 👋 Hi there, I'm leeminsuk
+
+꾸준히 배우고, 직접 만들어보며 성장하는 개발자입니다.  
+문제를 구조화하고, 필요한 기능을 실제 서비스로 구현하는 과정에 관심이 많습니다.
+
 </div>
 
-<br>
+<br/>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 GitHub ID: **space1637**
+- 🌱 Currently interested in **Web Development, AI, Automation**
+- 🛠 I enjoy building useful tools and improving workflows
+- ✨ I value clean code, readable documentation, and steady growth
+
+<br/>
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232A" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+### Frameworks & Libraries
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br/><br/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
 </div>
 
-<br>
+<br/>
 
-<h3 align="center">📚 Studying 📚</h3>
+---
+
+## 📌 Projects & Interests
+
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+
+| Area | Interest |
+|---|---|
+| 💻 Web | Frontend / Backend / Full-stack |
+| 🤖 AI | LLM, automation, data-driven tools |
+| 🧩 Problem Solving | Structuring problems and building practical solutions |
+| 📚 Learning | Consistent study and project-based growth |
+
 </div>
 
-<br>
+<br/>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=space1637&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=space1637&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/space1637/space1637/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br/>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://github.com/space1637">
+  <img src="https://img.shields.io/badge/GitHub-space1637-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer)
+
+</div></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
