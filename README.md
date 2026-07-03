@@ -15,11 +15,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 
 <img src="https://raw.githubusercontent.com/leeminsuk/leeminsuk/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
 
