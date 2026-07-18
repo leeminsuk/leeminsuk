@@ -18,7 +18,7 @@ jobs:
       - name: Generate 3D contribution graph
         # Patched fork: splits the GraphQL query to stay under GitHub resource limits
         # (upstream query gets RESOURCE_LIMITS_EXCEEDED for this account)
-        uses: leeminsuk/github-profile-3d-contrib@b7b8933599ac1cda33a4e2c3b83e82b1fa75b224
+        uses: leeminsuk/github-profile-3d-contrib@4a7841070401dc87f499418a7e9eb6378fb58613
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: leeminsuk
