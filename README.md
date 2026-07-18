@@ -121,19 +121,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeminsuk&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeminsuk&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leeminsuk&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeminsuk&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leeminsuk&theme=tokyonight&utcOffset=9" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeminsuk&theme=tokyonight&hide_border=true&date_format=Y-m-d" alt="streak" />
 
