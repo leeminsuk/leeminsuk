@@ -11,7 +11,9 @@ jobs:
 
     steps:
       - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+        # Patched fork: splits the contribution query to stay under GitHub GraphQL
+        # resource limits (upstream query gets RESOURCE_LIMITS_EXCEEDED for this account)
+        uses: leeminsuk/snk/svg-only@b4c3ce41b07440333c198d4d8535a35de19a565a
         with:
           github_user_name: leeminsuk
           outputs: |
